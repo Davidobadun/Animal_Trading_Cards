@@ -1,0 +1,32 @@
+/* add your CSS here */
+/*
+Bold on trading card header
+Italics on first paragraph
+Bold for each anumal attrribute
+Border aroind text
+
+funfact class
+AnimalNameHeader class
+InterestingFact class
+QuickFacts Class
+BeirefDescriptionclass
+imagecontainer
+Descriptioncontainer
+
+*/
+
+img{
+    width: 10px;
+}
+
+div{color:blue;
+    background-color: red;
+}
+/*
+.AnimalName{}
+.interestingFact{}
+.AnimalFact{}
+.BriefDescription{}
+.ImageContainer{}
+.DescriptionContainer{}
+*/

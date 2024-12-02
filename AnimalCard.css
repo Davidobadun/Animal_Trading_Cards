@@ -1,0 +1,89 @@
+/* add your CSS here */
+/*
+AnimalNameHeader class
+InterestingFact class
+QuickFacts Class
+BeirefDescriptionclass
+imagecontainer
+Descriptioncontainer
+*/
+
+img {
+    width: 300px;
+    height: 200px;
+    border-style: double;
+    border-width: 3px;
+    border-color: rgb(215, 215, 215);
+    Padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+}
+
+.ImpalaCard {
+    width: 315px;
+    Margin: 10px;
+    Padding: 10px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    box-shadow: 5px 5px rgb(193, 190, 190);
+    background-color: rgb(251, 238, 222);
+    float: left;
+
+
+}
+
+div {
+    color: black;
+    ;
+}
+
+.AnimalName {
+    font-weight: bold;
+    border-style: double;
+    border-width: 3px;
+    border-color: rgb(215, 215, 215);
+    Padding: 5px;
+    font-size: 24px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.interestingFact {
+    font-style: italic;
+}
+
+.AnimalFact {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.DescriptionContainer {
+    border-style: double;
+    border-width: 3px;
+    border-color: rgb(215, 215, 215);
+    Padding: 5px;
+    margin: 1px;
+    border-radius: 5px;
+    width: 300px;
+    height: 340px;
+}
+
+.Cheetah {
+    width: 315px;
+    Margin: 10px;
+    Padding: 10px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    box-shadow: 5px 5px rgb(193, 190, 190);
+    background-color: rgb(246, 186, 169);
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
